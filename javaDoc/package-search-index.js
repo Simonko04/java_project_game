@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"action"},{"l":"All Packages","u":"allpackages-index.html"},{"l":"enemies"},{"l":"character"},{"l":"items"},{"l":"panel"},{"l":"projectiles"}];updateSearchResults();
